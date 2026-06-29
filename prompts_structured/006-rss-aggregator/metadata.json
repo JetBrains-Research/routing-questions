@@ -1,0 +1,6 @@
+{
+  "id": "006-rss-aggregator",
+  "difficulty": "medium",
+  "category": "cli tool / data",
+  "stack": ["python", "click", "feedparser", "sqlite3"]
+}

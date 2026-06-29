@@ -1,0 +1,6 @@
+{
+  "id": "015-search-engine",
+  "difficulty": "hard",
+  "category": "cli tool / algorithms",
+  "stack": ["python", "click", "pickle"]
+}

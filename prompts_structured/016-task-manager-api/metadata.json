@@ -1,0 +1,6 @@
+{
+  "id": "016-task-manager-api",
+  "difficulty": "hard",
+  "category": "rest api",
+  "stack": ["python", "fastapi", "sqlalchemy", "sqlite", "pydantic", "python-jose", "passlib"]
+}

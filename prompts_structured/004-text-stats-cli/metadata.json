@@ -1,0 +1,6 @@
+{
+  "id": "004-text-stats-cli",
+  "difficulty": "easy",
+  "category": "cli tool / data",
+  "stack": ["python", "click", "re"]
+}

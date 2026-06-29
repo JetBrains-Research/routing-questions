@@ -1,0 +1,6 @@
+{
+  "id": "012-plugin-system",
+  "difficulty": "hard",
+  "category": "cli tool / architecture",
+  "stack": ["python", "click", "importlib", "pytz"]
+}

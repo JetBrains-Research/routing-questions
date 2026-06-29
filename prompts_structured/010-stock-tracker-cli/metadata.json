@@ -1,0 +1,6 @@
+{
+  "id": "010-stock-tracker-cli",
+  "difficulty": "medium",
+  "category": "cli tool / data",
+  "stack": ["python", "click", "yfinance", "plotext", "sqlite3"]
+}

@@ -1,0 +1,6 @@
+{
+  "id": "007-file-backup-tool",
+  "difficulty": "medium",
+  "category": "cli tool / systems",
+  "stack": ["python", "click", "pathlib", "shutil"]
+}

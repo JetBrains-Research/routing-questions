@@ -1,0 +1,6 @@
+{
+  "id": "011-web-crawler",
+  "difficulty": "medium",
+  "category": "networking / data",
+  "stack": ["python", "click", "requests", "beautifulsoup4"]
+}

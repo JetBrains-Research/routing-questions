@@ -1,0 +1,6 @@
+{
+  "id": "002-unit-converter-cli",
+  "difficulty": "easy",
+  "category": "cli tool",
+  "stack": ["python", "click"]
+}

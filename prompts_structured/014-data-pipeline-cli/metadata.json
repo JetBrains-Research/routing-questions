@@ -1,0 +1,6 @@
+{
+  "id": "014-data-pipeline-cli",
+  "difficulty": "medium",
+  "category": "cli tool / data",
+  "stack": ["python", "click", "pandas", "pyyaml"]
+}

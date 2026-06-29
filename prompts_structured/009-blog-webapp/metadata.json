@@ -1,0 +1,6 @@
+{
+  "id": "009-blog-webapp",
+  "difficulty": "medium",
+  "category": "web app",
+  "stack": ["python", "flask", "flask-login", "sqlalchemy", "sqlite", "mistune"]
+}

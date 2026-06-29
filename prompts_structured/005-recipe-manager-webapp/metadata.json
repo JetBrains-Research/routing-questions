@@ -1,0 +1,6 @@
+{
+  "id": "005-recipe-manager-webapp",
+  "difficulty": "medium",
+  "category": "web app",
+  "stack": ["python", "flask", "sqlalchemy", "sqlite", "jinja2"]
+}

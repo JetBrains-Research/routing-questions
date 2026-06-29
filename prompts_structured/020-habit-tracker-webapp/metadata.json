@@ -1,0 +1,6 @@
+{
+  "id": "020-habit-tracker-webapp",
+  "difficulty": "medium",
+  "category": "web app",
+  "stack": ["python", "flask", "flask-login", "sqlalchemy", "sqlite", "jinja2"]
+}

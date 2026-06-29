@@ -1,0 +1,6 @@
+{
+  "id": "008-contact-book-cli",
+  "difficulty": "easy",
+  "category": "cli tool",
+  "stack": ["python", "click", "sqlite3", "tabulate"]
+}

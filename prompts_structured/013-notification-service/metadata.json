@@ -1,0 +1,6 @@
+{
+  "id": "013-notification-service",
+  "difficulty": "hard",
+  "category": "rest api / systems",
+  "stack": ["python", "fastapi", "asyncio", "aiosqlite", "sqlite"]
+}

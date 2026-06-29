@@ -1,0 +1,6 @@
+{
+  "id": "019-message-broker",
+  "difficulty": "hard",
+  "category": "systems / networking",
+  "stack": ["python", "socket", "threading", "sqlite3"]
+}

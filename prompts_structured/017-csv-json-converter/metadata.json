@@ -1,0 +1,6 @@
+{
+  "id": "017-csv-json-converter",
+  "difficulty": "easy",
+  "category": "cli tool / data",
+  "stack": ["python", "click", "csv", "json"]
+}

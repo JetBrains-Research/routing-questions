@@ -1,0 +1,6 @@
+{
+  "id": "001-password-manager-cli",
+  "difficulty": "medium",
+  "category": "cli tool / security",
+  "stack": ["python", "click", "cryptography", "sqlite3", "pyperclip"]
+}

@@ -1,0 +1,6 @@
+{
+  "id": "018-pomodoro-timer",
+  "difficulty": "easy",
+  "category": "cli tool",
+  "stack": ["python", "click", "sqlite3"]
+}
