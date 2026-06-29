@@ -1,0 +1,6 @@
+{
+  "id": "007-note-taking-cli",
+  "difficulty": "easy",
+  "category": "cli tool",
+  "stack": ["python", "click", "sqlite3"]
+}

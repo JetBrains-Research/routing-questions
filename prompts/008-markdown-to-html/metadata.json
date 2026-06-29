@@ -1,0 +1,6 @@
+{
+  "id": "008-markdown-to-html",
+  "difficulty": "easy",
+  "category": "cli tool",
+  "stack": ["python", "click", "mistune"]
+}

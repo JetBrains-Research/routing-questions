@@ -1,0 +1,6 @@
+{
+  "id": "015-budget-api-fastapi",
+  "difficulty": "medium",
+  "category": "rest api",
+  "stack": ["python", "fastapi", "sqlalchemy", "sqlite", "pydantic"]
+}

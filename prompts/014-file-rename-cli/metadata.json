@@ -1,0 +1,6 @@
+{
+  "id": "014-file-rename-cli",
+  "difficulty": "medium",
+  "category": "cli tool",
+  "stack": ["python", "click", "pathlib", "re"]
+}

@@ -1,0 +1,6 @@
+{
+  "id": "019-data-pipeline-etl",
+  "difficulty": "hard",
+  "category": "data pipeline / api",
+  "stack": ["python", "fastapi", "requests", "sqlite3", "apscheduler"]
+}

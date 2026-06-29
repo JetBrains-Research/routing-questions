@@ -1,0 +1,6 @@
+{
+  "id": "009-duplicate-file-finder",
+  "difficulty": "easy",
+  "category": "cli tool",
+  "stack": ["python", "click", "pathlib", "hashlib"]
+}

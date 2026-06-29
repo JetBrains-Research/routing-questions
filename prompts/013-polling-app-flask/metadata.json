@@ -1,0 +1,6 @@
+{
+  "id": "013-polling-app-flask",
+  "difficulty": "medium",
+  "category": "web app",
+  "stack": ["python", "flask", "sqlalchemy", "sqlite", "matplotlib"]
+}

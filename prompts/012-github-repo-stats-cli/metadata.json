@@ -1,0 +1,6 @@
+{
+  "id": "012-github-repo-stats-cli",
+  "difficulty": "medium",
+  "category": "cli tool / api",
+  "stack": ["python", "click", "requests"]
+}

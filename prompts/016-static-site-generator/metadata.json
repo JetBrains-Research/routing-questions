@@ -1,0 +1,6 @@
+{
+  "id": "016-static-site-generator",
+  "difficulty": "hard",
+  "category": "cli tool / templating",
+  "stack": ["python", "jinja2", "mistune", "pyyaml", "pathlib"]
+}

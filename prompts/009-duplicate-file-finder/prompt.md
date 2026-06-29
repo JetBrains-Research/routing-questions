@@ -1,0 +1,1 @@
+Write a CLI tool with Click that scans a directory recursively and finds duplicate files using SHA-256 hashing. Print groups of duplicates with their paths and sizes. Add a --delete flag that keeps the first copy and deletes the rest (with a confirmation prompt before doing anything). Use pathlib for file handling.

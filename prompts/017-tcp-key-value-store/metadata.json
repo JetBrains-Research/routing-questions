@@ -1,0 +1,6 @@
+{
+  "id": "017-tcp-key-value-store",
+  "difficulty": "hard",
+  "category": "systems / networking",
+  "stack": ["python", "socket", "threading", "click"]
+}

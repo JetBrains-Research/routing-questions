@@ -1,0 +1,1 @@
+Build a CLI note-taking app with Click that stores notes in a local SQLite database. I want to add a note with a title and body, list all notes (just titles and IDs), view a note by ID, search notes by keyword (searches title and body), and delete by ID. Keep it simple, no folders or tags needed.

@@ -1,0 +1,6 @@
+{
+  "id": "011-log-analyzer-cli",
+  "difficulty": "medium",
+  "category": "cli tool / data",
+  "stack": ["python", "click", "pandas"]
+}

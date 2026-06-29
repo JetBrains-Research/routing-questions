@@ -1,0 +1,6 @@
+{
+  "id": "010-url-shortener-flask",
+  "difficulty": "medium",
+  "category": "web app",
+  "stack": ["python", "flask", "sqlalchemy", "sqlite"]
+}

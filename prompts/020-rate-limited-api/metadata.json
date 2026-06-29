@@ -1,0 +1,6 @@
+{
+  "id": "020-rate-limited-api",
+  "difficulty": "hard",
+  "category": "rest api / systems",
+  "stack": ["python", "fastapi", "redis", "redis-py"]
+}

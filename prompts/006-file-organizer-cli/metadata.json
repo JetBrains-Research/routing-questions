@@ -1,0 +1,6 @@
+{
+  "id": "006-file-organizer-cli",
+  "difficulty": "easy",
+  "category": "cli tool",
+  "stack": ["python", "click", "pathlib"]
+}

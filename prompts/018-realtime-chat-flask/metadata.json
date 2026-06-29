@@ -1,0 +1,6 @@
+{
+  "id": "018-realtime-chat-flask",
+  "difficulty": "hard",
+  "category": "web app / real-time",
+  "stack": ["python", "flask", "flask-socketio", "javascript"]
+}
