@@ -1,0 +1,1 @@
+Build a small REST API with FastAPI for managing a reading list. I want endpoints to add a book (title, author, status: to-read / reading / done), list all books with optional filtering by status, update a book's status, and delete a book. Use SQLite with SQLAlchemy. No auth. Return proper HTTP status codes.

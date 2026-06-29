@@ -1,0 +1,1 @@
+Write a Python script using requests and BeautifulSoup that scrapes the Hacker News front page and pulls the top 10 stories — title, URL, score, and number of comments. Save them to a SQLite database and print a formatted table to the terminal. If I run it multiple times it shouldn't duplicate stories, use the HN story ID to deduplicate.

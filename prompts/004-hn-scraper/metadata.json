@@ -1,0 +1,6 @@
+{
+  "id": "004-hn-scraper",
+  "difficulty": "medium",
+  "category": "scraping / data",
+  "stack": ["python", "requests", "beautifulsoup", "sqlite"]
+}

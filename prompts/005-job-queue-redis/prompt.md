@@ -1,0 +1,1 @@
+I need a lightweight job queue in Python backed by Redis. Jobs are just shell commands (strings). I want a worker process that pulls jobs off the queue, runs them, logs stdout/stderr to a file, and retries up to 3 times if the command fails. Also a small CLI using Click to enqueue a command and to check how many jobs are pending. Use redis-py directly, no rq or celery.

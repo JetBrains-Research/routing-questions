@@ -1,0 +1,6 @@
+{
+  "id": "003-reading-list-api",
+  "difficulty": "medium",
+  "category": "rest api",
+  "stack": ["python", "fastapi", "sqlalchemy", "sqlite"]
+}

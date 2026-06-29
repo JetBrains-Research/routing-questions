@@ -1,0 +1,1 @@
+I want a simple personal expense tracker as a Flask web app. I need to be able to add expenses with an amount, a category (like food, transport, etc.) and a date. There should be a page that lists all expenses sorted by date, and another that shows totals grouped by category. Store everything in SQLite using SQLAlchemy. No login or auth needed, single user.

@@ -1,0 +1,6 @@
+{
+  "id": "005-job-queue-redis",
+  "difficulty": "hard",
+  "category": "systems / infrastructure",
+  "stack": ["python", "redis", "redis-py", "click"]
+}

@@ -1,0 +1,6 @@
+{
+  "id": "002-expense-tracker-flask",
+  "difficulty": "easy",
+  "category": "web app",
+  "stack": ["python", "flask", "sqlalchemy", "sqlite"]
+}

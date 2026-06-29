@@ -1,0 +1,1 @@
+I have CSV files I want to quickly inspect. Build me a CLI tool using Click and pandas that takes a CSV file path as an argument and prints a summary: number of rows and columns, column names with their types, how many nulls each column has, and basic stats (min, max, mean) for numeric columns. Should work from the terminal like `python stats.py myfile.csv`.

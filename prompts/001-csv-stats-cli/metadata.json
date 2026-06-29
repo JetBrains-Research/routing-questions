@@ -1,0 +1,6 @@
+{
+  "id": "001-csv-stats-cli",
+  "difficulty": "easy",
+  "category": "cli tool",
+  "stack": ["python", "click", "pandas"]
+}
