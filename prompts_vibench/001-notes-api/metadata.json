@@ -1,0 +1,7 @@
+{
+  "id": "001-notes-api",
+  "vibench_source": "notes (MVP)",
+  "difficulty": "easy",
+  "category": "rest api",
+  "stack": ["python", "fastapi", "sqlalchemy", "sqlite", "pydantic"]
+}
