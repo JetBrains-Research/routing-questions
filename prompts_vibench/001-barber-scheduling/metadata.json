@@ -1,0 +1,7 @@
+{
+  "id": "001-barber-scheduling",
+  "vibench_source": "barber",
+  "difficulty": "easy",
+  "category": "scheduling",
+  "stack": ["python"]
+}

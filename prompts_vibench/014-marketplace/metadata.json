@@ -1,0 +1,7 @@
+{
+  "id": "014-marketplace",
+  "vibench_source": "market_place",
+  "difficulty": "medium",
+  "category": "e-commerce / concurrency",
+  "stack": ["python"]
+}

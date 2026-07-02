@@ -68,7 +68,19 @@ and the more we rewrite, the less that grounding holds.
 
 ## Excluded Tasks
 
-(filled in as tasks are reviewed)
-
 | ViBench app | Reason |
 |---|---|
+| canary | Hello-world smoke-test app: a single static page with no logic. Nothing evaluable remains after removing the UI. |
+| online_whiteboard | Freehand drawing with real-time canvas sync. The substance of the task is the drawing UI itself; no meaningful backend remains. |
+
+## Partial Removals
+
+Tasks that were adapted but lost a substantial (not merely cosmetic) UI-bound
+requirement, noted in their `metadata.json` as `adaptation_note`:
+
+| Task | Removed |
+|---|---|
+| 003-team-sprint-board | Real-Time Collaboration section (live sync, presence avatars, live co-editing indicators) |
+| 006-venue-finder | Photo gallery and photo assets; GPS permission flow replaced with caller-supplied coordinates |
+| 020-team-chat | Real-time message delivery ("within seconds") |
+| 022-wedding-venues | Map view of search results |

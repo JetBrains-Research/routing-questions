@@ -1,0 +1,7 @@
+{
+  "id": "013-mafia-game",
+  "vibench_source": "mafia",
+  "difficulty": "medium",
+  "category": "game logic / state machine",
+  "stack": ["python"]
+}

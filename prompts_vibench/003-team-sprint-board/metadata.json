@@ -1,0 +1,8 @@
+{
+  "id": "003-team-sprint-board",
+  "vibench_source": "collabrative_kaban",
+  "difficulty": "easy",
+  "category": "project management",
+  "stack": ["python"],
+  "adaptation_note": "Real-Time Collaboration section (live sync, presence avatars, live co-editing indicators) removed as UI/transport-inseparable."
+}

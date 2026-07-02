@@ -1,0 +1,7 @@
+{
+  "id": "019-resume-builder",
+  "vibench_source": "resume_builder",
+  "difficulty": "easy",
+  "category": "content management / validation",
+  "stack": ["python"]
+}

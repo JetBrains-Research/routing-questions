@@ -1,0 +1,9 @@
+{
+  "id": "022-wedding-venues",
+  "vibench_source": "wedding",
+  "difficulty": "hard",
+  "category": "marketplace / booking",
+  "stack": ["python"],
+  "assets": ["assets/postcode-outcodes.csv"],
+  "adaptation_note": "Map view removed as UI-inseparable."
+}

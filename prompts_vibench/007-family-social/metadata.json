@@ -1,0 +1,7 @@
+{
+  "id": "007-family-social",
+  "vibench_source": "family_social",
+  "difficulty": "hard",
+  "category": "social network",
+  "stack": ["python"]
+}

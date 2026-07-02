@@ -1,0 +1,7 @@
+{
+  "id": "009-furniture-freight-calculator",
+  "vibench_source": "furniture_freight",
+  "difficulty": "medium",
+  "category": "pricing / calculations",
+  "stack": ["python"]
+}

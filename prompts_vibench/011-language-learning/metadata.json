@@ -1,0 +1,8 @@
+{
+  "id": "011-language-learning",
+  "vibench_source": "language_learning",
+  "difficulty": "medium",
+  "category": "education / grading logic",
+  "stack": ["python"],
+  "assets": ["assets/questions.json"]
+}

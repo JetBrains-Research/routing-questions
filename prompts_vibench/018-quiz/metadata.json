@@ -1,0 +1,8 @@
+{
+  "id": "018-quiz",
+  "vibench_source": "quiz",
+  "difficulty": "medium",
+  "category": "game logic",
+  "stack": ["python"],
+  "assets": ["assets/questions.csv"]
+}
