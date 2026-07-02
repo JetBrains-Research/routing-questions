@@ -1,0 +1,6 @@
+data/raw/*.parquet
+data/*.csv
+data/*.jsonl
+data/candidates/*.csv
+data/candidates/*.jsonl
+scripts/__pycache__/
