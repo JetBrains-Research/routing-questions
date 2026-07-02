@@ -1,0 +1,8 @@
+{
+  "id": "003-family-relationships-api",
+  "vibench_source": "Family Social Network",
+  "adaptation": "Python backend API",
+  "difficulty": "medium",
+  "category": "rest api",
+  "stack": ["python", "fastapi", "sqlalchemy", "sqlite", "pydantic"]
+}

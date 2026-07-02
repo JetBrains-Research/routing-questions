@@ -1,0 +1,8 @@
+{
+  "id": "009-kanban-api",
+  "vibench_source": "Collaborative Kanban",
+  "adaptation": "Python backend API without real-time sync",
+  "difficulty": "medium",
+  "category": "rest api",
+  "stack": ["python", "fastapi", "sqlalchemy", "sqlite", "pydantic"]
+}

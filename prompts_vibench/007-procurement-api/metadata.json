@@ -1,0 +1,8 @@
+{
+  "id": "007-procurement-api",
+  "vibench_source": "Supplier Relationship Management",
+  "adaptation": "Python backend API",
+  "difficulty": "medium",
+  "category": "rest api",
+  "stack": ["python", "fastapi", "sqlalchemy", "sqlite", "pydantic"]
+}

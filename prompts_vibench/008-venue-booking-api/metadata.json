@@ -1,0 +1,8 @@
+{
+  "id": "008-venue-booking-api",
+  "vibench_source": "Wedding Venue Platform",
+  "adaptation": "Python backend API",
+  "difficulty": "medium",
+  "category": "rest api",
+  "stack": ["python", "fastapi", "sqlalchemy", "sqlite", "pydantic"]
+}

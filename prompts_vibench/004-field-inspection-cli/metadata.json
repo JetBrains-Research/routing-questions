@@ -1,0 +1,8 @@
+{
+  "id": "004-field-inspection-cli",
+  "vibench_source": "Energy Audit",
+  "adaptation": "Python CLI",
+  "difficulty": "medium",
+  "category": "cli",
+  "stack": ["python", "click", "sqlite"]
+}

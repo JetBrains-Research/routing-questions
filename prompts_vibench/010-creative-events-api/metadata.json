@@ -1,0 +1,8 @@
+{
+  "id": "010-creative-events-api",
+  "vibench_source": "Creative Community",
+  "adaptation": "Python backend API",
+  "difficulty": "medium",
+  "category": "rest api",
+  "stack": ["python", "fastapi", "sqlalchemy", "sqlite", "pydantic"]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "005-freight-quote-cli",
+  "vibench_source": "Furniture Freight Calculator",
+  "adaptation": "Python CLI",
+  "difficulty": "medium",
+  "category": "cli",
+  "stack": ["python", "click", "pandas", "sqlite"]
+}
