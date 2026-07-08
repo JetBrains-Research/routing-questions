@@ -1,0 +1,9 @@
+{
+  "id": "006-venue-finder",
+  "vibench_source": "family_friendly_venue",
+  "difficulty": "medium",
+  "category": "search / filtering",
+  "stack": ["python"],
+  "assets": ["assets/data.md"],
+  "adaptation_note": "Photo gallery and photo asset requirements removed as UI-inseparable; GPS permission flow replaced with caller-supplied coordinates."
+}

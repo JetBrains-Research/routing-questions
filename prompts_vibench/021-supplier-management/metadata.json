@@ -1,0 +1,7 @@
+{
+  "id": "021-supplier-management",
+  "vibench_source": "srm",
+  "difficulty": "hard",
+  "category": "procurement / workflows",
+  "stack": ["python"]
+}

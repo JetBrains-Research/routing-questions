@@ -1,0 +1,8 @@
+{
+  "id": "005-energy-audit",
+  "vibench_source": "energy_audit",
+  "difficulty": "hard",
+  "category": "field inspection / calculations",
+  "stack": ["python"],
+  "assets": ["assets/mvp-seed-data.json"]
+}

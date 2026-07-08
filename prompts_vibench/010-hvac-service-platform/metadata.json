@@ -1,0 +1,7 @@
+{
+  "id": "010-hvac-service-platform",
+  "vibench_source": "hvac",
+  "difficulty": "hard",
+  "category": "service management / workflows",
+  "stack": ["python"]
+}

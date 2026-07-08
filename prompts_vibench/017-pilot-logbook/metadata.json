@@ -1,0 +1,7 @@
+{
+  "id": "017-pilot-logbook",
+  "vibench_source": "pilot_logbook",
+  "difficulty": "hard",
+  "category": "logging / analytics",
+  "stack": ["python"]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "012-logistics-3pl",
+  "vibench_source": "logistics",
+  "difficulty": "medium",
+  "category": "forms / calculations",
+  "stack": ["python"],
+  "assets": ["assets/blogs/"]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "015-monopoly",
+  "vibench_source": "monopoly",
+  "difficulty": "medium",
+  "category": "game logic / state machine",
+  "stack": ["python"]
+}

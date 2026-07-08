@@ -1,0 +1,7 @@
+{
+  "id": "004-creative-community-events",
+  "vibench_source": "creative_community",
+  "difficulty": "hard",
+  "category": "events / community",
+  "stack": ["python"]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "008-fleet-maintenance",
+  "vibench_source": "fleet_management",
+  "difficulty": "easy",
+  "category": "tracking / status logic",
+  "stack": ["python"]
+}

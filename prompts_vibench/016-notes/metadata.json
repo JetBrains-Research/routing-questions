@@ -1,0 +1,7 @@
+{
+  "id": "016-notes",
+  "vibench_source": "notes",
+  "difficulty": "easy",
+  "category": "notes / crud",
+  "stack": ["python"]
+}

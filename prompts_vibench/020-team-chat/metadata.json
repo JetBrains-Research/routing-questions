@@ -1,0 +1,9 @@
+{
+  "id": "020-team-chat",
+  "vibench_source": "slack",
+  "difficulty": "medium",
+  "category": "messaging",
+  "stack": ["python"],
+  "assets": ["assets/users.csv"],
+  "adaptation_note": "Real-time delivery requirement removed as UI/transport-inseparable; messages are retrievable on request."
+}
